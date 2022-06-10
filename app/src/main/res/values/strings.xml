@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BB MOVIE</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="account_hint">your account ID</string>
+    <string name="pwd_hint">your password</string>
+    <string name="search_hint">what\'s your favorite movie?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_start_game">start game</string>
+    <string name="fire">start!</string>
+    <string name="cancel">cancel</string>
+    <string name="submit_rate">submit</string>
+    <string name="rating_review_hint">please type your feeling about the movie :)</string>
+    <string name="rating_star_hint">Your rating will not be used directly as a movie score, but we wll use it for improving the performance of our model</string>
+    <string name="see_review">see other\'s reviews</string>
+</resources>
